@@ -1,7 +1,3 @@
-# This is a pytorch version for the work of PanNet
-# YW Jin, X Wu, LJ Deng(UESTC);
-# 2020-09;
-
 import torch.nn.modules as nn
 import torch
 import cv2
